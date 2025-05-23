@@ -24,7 +24,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-DANS is licensed under the BSD 0-Clause License. See the [LICENSE](LICENSE) file for details.
+DANS is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
