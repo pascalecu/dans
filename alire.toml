@@ -1,0 +1,10 @@
+name = "dans"
+description = "National Semiconductor Series 32000 (ns32k) (dis)assembler"
+version = "0.1.0-dev"
+
+authors = ["?tefan-Iulian Alecu"]
+maintainers = ["?tefan-Iulian Alecu <stalecu64@gmail.com>"]
+maintainers-logins = ["pascalecu"]
+licenses = "BSD-3-Clause"
+website = "https://github.com/pascalecu/dans"
+tags = ["ns32k", "assembler", "disassembler", "cpu", "retrocomputing"]
